@@ -4,4 +4,4 @@
 - 💞️ I’m looking Forward to collaborate
 - 📫 How to reach me : Email : abdulsamiabbasi443@gmail.com
 - 😄 Pronouns: Sami
-- ⚡ Fun fact: I am passionate about exploring the tech world, from front-end design to backend development, and I am always eager to expand your skill set.
+- ⚡ Fun fact: I am passionate about exploring the tech world, from front-end design to backend development, and I am always eager to expand my skill set.
