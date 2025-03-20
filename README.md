@@ -15,6 +15,6 @@ I'm always looking for **exciting projects, collaborations, and full-time roles*
 
 📧 **Email:** [abdulsamiabbasi443@gmail.com](mailto:abdulsamiabbasi443@gmail.com)  
 🔗 **GitHub:** [@Abdul-Sami-Abbasi](https://github.com/Abdul-Sami-Abbasi)  
-💼 **LinkedIn:** [Abdul Sami Abbasi](#) _(https://www.linkedin.com/in/abdul-sami-abbasi/)_  
+💼 **LinkedIn:** (https://www.linkedin.com/in/abdul-sami-abbasi/)
 
 Let’s build something amazing together! 🚀  
