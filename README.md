@@ -1,20 +1,18 @@
 # Abdul Sami Abbasi  
 
-## 👨‍💻 MERN Stack Engineer | Full-Stack Developer  
+## 👨‍💻 MERN Stack Engineer  
 
-Hi! I'm **Abdul Sami Abbasi**, a passionate **MERN Stack Engineer** who loves building **scalable, efficient, and user-friendly web applications**. From crafting sleek front-end designs to developing powerful back-end systems, I enjoy bringing ideas to life through code.  
+I specialize in **Full-Stack Web Development** with expertise in **MongoDB, Express.js, React, and Node.js**. I build **scalable, efficient, and user-friendly web applications** with a focus on performance and best practices.  
 
-### 💡 What I Do  
-- **Front-End:** Creating dynamic and responsive UI/UX with **React.js, HTML, CSS, and JavaScript**.  
-- **Back-End:** Building secure and scalable APIs using **Node.js and Express.js**.  
-- **Database Management:** Designing and optimizing databases with **MongoDB and MySQL**.  
-- **Other Technologies:** Firebase, Git, Authentication & Security.  
+### 🔹 Skills & Expertise  
+- **Front-End:** React.js, HTML, CSS, JavaScript  
+- **Back-End:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, MySQL  
+- **Other:** Firebase, Git, Authentication & Security  
 
-### 🚀 Open to Opportunities  
-I'm always looking for **exciting projects, collaborations, and full-time roles** where I can contribute my skills and grow as a developer.  
+### 🎯 Open to Opportunities  
+Seeking **collaborations, freelance projects, and full-time roles** to contribute to impactful projects.  
 
 📧 **Email:** [abdulsamiabbasi443@gmail.com](mailto:abdulsamiabbasi443@gmail.com)  
 🔗 **GitHub:** [@Abdul-Sami-Abbasi](https://github.com/Abdul-Sami-Abbasi)  
-💼 **LinkedIn:** (https://www.linkedin.com/in/abdul-sami-abbasi/)
-
-Let’s build something amazing together! 🚀  
+💼 **LinkedIn:** [Abdul Sami Abbasi](https://www.linkedin.com/in/abdul-sami-abbasi/)
