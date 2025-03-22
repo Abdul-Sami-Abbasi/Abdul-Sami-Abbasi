@@ -1,20 +1,31 @@
 # Abdul Sami Abbasi  
+**MERN Stack Engineer** | Full-Stack Developer  
 
-## 👨‍💻 MERN Stack Engineer  
+Specializing in end-to-end web solutions with **MongoDB, Express.js, React, and Node.js**. I prioritize clean architecture, performance optimization, and secure authentication systems.  
 
-I specialize in **Full-Stack Web Development** with expertise in **MongoDB, Express.js, React, and Node.js**. I build **scalable, efficient, and user-friendly web applications** with a focus on performance and best practices.  
+---
 
-> 🎓 *Pursuing a Bachelor's in Computer Science (BSCS), continuously expanding my technical expertise.*  
+### Core Expertise  
+- **Frontend Development**: React.js, JavaScript (ES6+), HTML5, CSS3 (Flexbox/Grid)  
+- **Backend Development**: RESTful APIs (Node.js/Express.js), JWT authentication, middleware design  
+- **Databases**: MongoDB (Mongoose ODM), relational databases (MySQL)  
+- **Tooling**: Git/GitHub, Firebase (Auth/Realtime DB), CI/CD pipelines  
 
-### 🔹 Skills & Expertise  
-- **Front-End:** React.js, HTML, CSS, JavaScript  
-- **Back-End:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB, MySQL  
-- **Other:** Firebase, Git, Authentication & Security  
+---
 
-### 🎯 Open to Opportunities  
-Seeking **collaborations, freelance projects, and full-time roles** to contribute to impactful projects.  
+### Education & Growth  
+- Pursuing a **Bachelor’s in Computer Science**, with coursework in algorithms, data structures, and software engineering principles.  
+- Continuously refining skills through hands-on projects and open-source contributions.  
 
-📧 **Email:** [abdulsamiabbasi443@gmail.com](mailto:abdulsamiabbasi443@gmail.com)  
-🔗 **GitHub:** [@Abdul-Sami-Abbasi](https://github.com/Abdul-Sami-Abbasi)  
-💼 **LinkedIn:** [Abdul Sami Abbasi](https://www.linkedin.com/in/abdul-sami-abbasi/)  
+---
+
+### Open to Roles  
+Actively seeking **full-time positions**, **contract work**, or **collaborative projects** in:  
+- Full-stack web development  
+- API design and integration  
+- Modernizing legacy codebases  
+
+---
+
+📩 **Contact**: [abdulsamiabbasi443@gmail.com](mailto:abdulsamiabbasi443@gmail.com)  
+🔗 **Connect**: [LinkedIn](https://www.linkedin.com/in/abdul-sami-abbasi/) | [GitHub](https://github.com/Abdul-Sami-Abbasi)  
