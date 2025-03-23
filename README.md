@@ -23,10 +23,10 @@ Building responsive, modern web interfaces and eager to expand into full-stack d
 ---
 
 ### 📚 Education & Growth  
-- Pursuing **BSc Computer Science** with a focus on web development fundamentals.  
+- Pursuing **BS Computer Science** with a focus on web development fundamentals.  
 - Certifications:  
   - FreeCodeCamp’s *Responsive Web Design*  
-  - Coursera’s *JavaScript for Web Developers* (Johns Hopkins University)  
+  - Coursera’s *JavaScript for Web Developers* (Huxn WebDev (Youtube))  
 - Actively applying skills through hands-on practice and small-scale builds.  
 
 ---
