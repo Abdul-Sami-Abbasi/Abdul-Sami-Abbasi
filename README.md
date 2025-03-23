@@ -40,7 +40,7 @@ Building responsive, modern web interfaces and eager to expand into full-stack d
 ---
 
 ### 🔍 Seeking  
-- **Internships** (Aug–Sep 2024) to refine frontend/React skills.  
+- **Internships** (Aug–Sep 2025) to refine frontend/React skills.  
 - **Junior Developer Roles** to grow into full-stack development.  
 - Mentorship opportunities to accelerate my learning curve.  
 
